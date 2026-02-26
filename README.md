@@ -5,7 +5,7 @@
 
 ### 💻 Developer | 🚀 Tech Enthusiast | 🎨 Creative Problem Solver
 
-<img src="https://media.giphy.com/media/11sBLVxNZZ2PyQ/giphy.gif" width="150" alt="funny-meme-gif">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGCeITYKW7J8IqvW1_S0N3vkYgRYqKsRXr02sZeRkwn-3aU_EwAyDSPovH8Ab8MTS5DFk&usqp=CAU" width="200" alt="funny-meme">
 
 *Building amazing things with code, one line at a time* ⚡
 
