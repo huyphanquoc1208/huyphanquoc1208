@@ -5,7 +5,7 @@
 
 ### 💻 Developer | 🚀 Tech Enthusiast | 🎨 Creative Problem Solver
 
-<img src="[https://filtermaker.fr/wp-content/uploads/2022/01/thinkaboutit-smart.gif" width="150" alt="funny-meme-gif">
+<img src="https://media.giphy.com/media/11sBLVxNZZ2PyQ/giphy.gif" width="150" alt="funny-meme-gif">
 
 *Building amazing things with code, one line at a time* ⚡
 
