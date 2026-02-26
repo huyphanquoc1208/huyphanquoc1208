@@ -5,7 +5,7 @@
 
 ### 💻 Developer | 🚀 Tech Enthusiast | 🎨 Creative Problem Solver
 
-<img src="https://media.giphy.com/media/dxn6SEP66mqrac/giphy.gif" width="100" alt="dev-animation">
+<img src="https://media.giphy.com/media/11sBLVxNZZ2PyQ/giphy.gif" width="150" alt="funny-meme-gif">
 
 *Building amazing things with code, one line at a time* ⚡
 
@@ -20,17 +20,6 @@
 </a>
 
 </div>
-
----
-
-## 👨‍💻 About Me
-
-```
-🎓 Passionate about learning new technologies & frameworks
-🏗️ Love building clean, efficient, and scalable solutions  
-🌱 Always growing, always experimenting
-🎯 Focus on creating meaningful impact through code
-```
 
 ---
 
@@ -60,49 +49,13 @@
 
 ---
 
-## 📈 GitHub Statistics
+## 🎬 Random Meme
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=huyphanquoc1208&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&text_color=58A6FF&title_color=FF006E)](https://github.com/huyphanquoc1208)
+<img src="https://media.giphy.com/media/13HgKV3zM7OwjL0cgo/giphy.gif" alt="random-meme" width="500" />
 
-[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=huyphanquoc1208&theme=radical&hide_border=true&background=0D1117&ring=FF006E&fire=FF006E&currStreakNum=58A6FF&sideNums=58A6FF&sideLabels=58A6FF&dates=58A6FF)](https://github.com/huyphanquoc1208)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=huyphanquoc1208&theme=radical&hide_border=true&layout=compact&langs_count=8&bg_color=0D1117&text_color=58A6FF&title_color=FF006E)](https://github.com/huyphanquoc1208)
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-[![GitHub Trophies](https://github-trophies.vercel.app/?username=huyphanquoc1208&theme=radical&no-frame=false&no-bg=true&margin-w=4)](https://github.com/huyphanquoc1208)
-
-</div>
-
----
-
-## 💡 Quick Facts
-
-<table align="center">
-  <tr>
-    <td align="center"><strong>🎯 Goal</strong><br/>Master new tech daily</td>
-    <td align="center"><strong>🔥 Passion</strong><br/>Building cool stuff</td>
-    <td align="center"><strong>⚙️ Focus</strong><br/>Code Quality</td>
-  </tr>
-</table>
-
----
-
-## 🎬 Random Meme of the Day
-
-<div align="center">
-
-<img src="https://api.imgflip.com/random" alt="random-meme" width="500" />
-
-*Refresh the page to get a new random meme!* 😂
+*Refresh the page to laugh!* 😂
 
 </div>
 
