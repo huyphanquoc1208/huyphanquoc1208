@@ -49,13 +49,13 @@
 
 ---
 
-## 🎬 Random Meme
+## 🎬 Random Meme of the Day
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/13HgKV3zM7OwjL0cgo/giphy.gif" alt="random-meme" width="500" />
+<img src="https://meme-api.herokuapp.com/gimme/ProgrammerHumor" alt="random-meme" width="500" />
 
-*Refresh the page to laugh!* 😂
+*Every time you push to GitHub, a new meme appears!* 😂
 
 </div>
 
