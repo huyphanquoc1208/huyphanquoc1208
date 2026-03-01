@@ -1,12 +1,20 @@
-<h1 align="left">👋 Hi there, I'm Phan Quoc Huy</h1>
+<img align="left" height="130" src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUycjR0a2lyODYwNGEzZDFxZnY5OXltOXprc250aHptOGdndmdjdmNpZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tIeCLkB8geYtW/200w.gif"  />
 
 ###
 
-<img align="left" height="100" src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUycjR0a2lyODYwNGEzZDFxZnY5OXltOXprc250aHptOGdndmdjdmNpZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tIeCLkB8geYtW/200w.gif"  />
+<h1 align="left">👋 Hi there, I'm Phan Quốc Huy</h1>
 
 ###
 
-<p align="left">🎓 I’m Phan Quoc Huy (12/08/2003)<br> 🏫 Student at Industrial University of Ho Chi Minh City (IUH)<br> 💻 Interested in Artificial Intelligence, Machine Learning and Software Development<br> 🚀 Passionate about learning new technologies and building practical projects</p>
+<h5 align="left">The best way to predict the future is to create it.</h5>
+
+###
+
+<h2 align="left">😎 Information about me</h2>
+
+###
+
+<p align="left">🎓 I’m Phan Quốc Huy (12/08/2003)<br> 🏫 Student at Industrial University of Ho Chi Minh City (IUH)<br> 💻 Interested in Artificial Intelligence, Machine Learning and Software Development<br> 🚀 Passionate about learning new technologies and building practical projects</p>
 
 ###
 
