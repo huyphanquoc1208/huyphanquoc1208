@@ -1,4 +1,4 @@
-<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUycjR0a2lyODYwNGEzZDFxZnY5OXltOXprc250aHptOGdndmdjdmNpZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tIeCLkB8geYtW/200w.gif"  />
+<img align="right" height="130" src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUycjR0a2lyODYwNGEzZDFxZnY5OXltOXprc250aHptOGdndmdjdmNpZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tIeCLkB8geYtW/200w.gif"  />
 
 ###
 
