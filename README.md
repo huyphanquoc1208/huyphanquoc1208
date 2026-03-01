@@ -2,11 +2,11 @@
 
 ###
 
-<img align="left" height="110" src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUycjR0a2lyODYwNGEzZDFxZnY5OXltOXprc250aHptOGdndmdjdmNpZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tIeCLkB8geYtW/200w.gif"  />
+<img align="left" height="100" src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUycjR0a2lyODYwNGEzZDFxZnY5OXltOXprc250aHptOGdndmdjdmNpZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tIeCLkB8geYtW/200w.gif"  />
 
 ###
 
-<p align="left">🎓 I’m Phan Quốc Huy (12/08/2003)<br>🏫 Student at Industrial University of Ho Chi Minh City (IUH)<br>💻 Interested in Artificial Intelligence, Machine Learning and Software Development<br>🚀 Passionate about learning new technologies and building practical projects</p>
+<p align="left">🎓 I’m Phan Quốc Huy (12/08/2003)<br> 🏫 Student at Industrial University of Ho Chi Minh City (IUH)<br> 💻 Interested in Artificial Intelligence, Machine Learning and Software Development<br> 🚀 Passionate about learning new technologies and building practical projects</p>
 
 ###
 
