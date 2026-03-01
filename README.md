@@ -1,4 +1,4 @@
-<h1 align="left">👋 Hi there, I'm Phan Quốc Huy</h1>
+<h1 align="left">👋 Hi there, I'm Phan Quoc Huy</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🎓 I’m Phan Quốc Huy (12/08/2003)<br> 🏫 Student at Industrial University of Ho Chi Minh City (IUH)<br> 💻 Interested in Artificial Intelligence, Machine Learning and Software Development<br> 🚀 Passionate about learning new technologies and building practical projects</p>
+<p align="left">🎓 I’m Phan Quoc Huy (12/08/2003)<br> 🏫 Student at Industrial University of Ho Chi Minh City (IUH)<br> 💻 Interested in Artificial Intelligence, Machine Learning and Software Development<br> 🚀 Passionate about learning new technologies and building practical projects</p>
 
 ###
 
