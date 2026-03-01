@@ -1,4 +1,4 @@
-<img align="left" height="130" src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUycjR0a2lyODYwNGEzZDFxZnY5OXltOXprc250aHptOGdndmdjdmNpZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tIeCLkB8geYtW/200w.gif"  />
+<img align="left" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUycjR0a2lyODYwNGEzZDFxZnY5OXltOXprc250aHptOGdndmdjdmNpZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tIeCLkB8geYtW/200w.gif"  />
 
 ###
 
@@ -6,9 +6,11 @@
 
 ###
 
-<h5 align="left">The best way to predict the future is to create it.</h5>
+<h5 align="left">🥇 The best way to predict the future is to create it.</h5>
 
 ###
+
+<br clear="both">
 
 <h2 align="left">😎 Information about me</h2>
 
