@@ -56,11 +56,7 @@
 
 ###
 
-<img align="left" height="150" src="https://media.tenor.com/tkKJcXl_wSMAAAAM/me-oo-owww-ww-raw-wrrr.gif"  />
-
-###
-
-<p align="left"></p>
+<img align="left" height="100" src="https://media.tenor.com/tkKJcXl_wSMAAAAM/me-oo-owww-ww-raw-wrrr.gif"  />
 
 ###
 
